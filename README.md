@@ -1,7 +1,9 @@
-### Hi there 👋
+### Holis a todos
 
 <h1>Mi nombre</h1>
-<p>Hola me llamo Dylan</p>
+<p>Hola me llamo Dylan<br>
+soy un desarrollador de juegos(novato) y quiero llegar a llegar lejos, porfa notifícame si te gusta mi trabajo.
+</p>
 
 <!--
 **DumbNoxx/DumbNoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
