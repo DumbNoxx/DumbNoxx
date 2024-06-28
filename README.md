@@ -3,7 +3,7 @@
 
 <h1>Mi nombre</h1>
 <p>Hola me llamo Dylan<br>
-Aún siento que me faltan cosas por aprender, por desarrollar, por saber lo que tengo que hacer, no quiero tener que trabajar de programador si aún no estoy listo, aunque tenga el título de <div stylesheet = color:"green">Python Engineer</div>, siento que me falta mucho
+Aún siento que me faltan cosas por aprender, por desarrollar, por saber lo que tengo que hacer, no quiero tener que trabajar de programador si aún no estoy listo, aunque tenga el título de Python Engineer, siento que me falta mucho
 </p>
 
 <!--
