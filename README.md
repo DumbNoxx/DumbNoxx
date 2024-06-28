@@ -1,8 +1,9 @@
 ### Holis a todos
 
+
 <h1>Mi nombre</h1>
 <p>Hola me llamo Dylan<br>
-soy un desarrollador de juegos(novato) y quiero llegar a llegar lejos, porfa notifícame si te gusta mi trabajo.
+Aún siento que me faltan cosas por aprender, por desarrollar, por saber lo que tengo que hacer, no quiero tener que trabajar de programador si aún no estoy listo, aunque tenga el título de <div stylesheet = color:"green">Python Engineer</div>, siento que me falta mucho
 </p>
 
 <!--
