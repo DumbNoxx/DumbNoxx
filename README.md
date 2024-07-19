@@ -10,19 +10,19 @@
 <p align= "center">
 - 🖥️ A <b>student</b> working his way around things
 </p>
-<h2 align = "center"> / current skills / </h2>
-<h4 align = "center"> languages </h4>
+<h2 align = "center"> / Current skills / </h2>
+<h4 align = "center"> Languages </h4>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust" />
   </a>
-  <h5 align = "center"> currently learning </h5>
+  <h5 align = "center"> Currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
   </a>
 </p>
-<h4 align = "center"> development tools </h4>
+<h4 align = "center"> Development tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,pycharm,linux,vscode" />
