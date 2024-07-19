@@ -36,6 +36,6 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
+Credit: zillastar(La cuenta la borro)
 
 Last Edited on: 12/11/2022
