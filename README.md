@@ -5,7 +5,7 @@
 
 <h2> / about me /</h2>
   
-- 👑 currently working on **App-Developent**
+- 👑 currently working on **App-Development**
 - 🎩 mostly working on **My projecs**
 - 🖥️ a **student** working his way around things
   
