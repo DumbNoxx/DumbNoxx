@@ -4,8 +4,10 @@
 
 <h2 align = "center"> / about me /</h2>
  <p align = "center">
-- 👑 Currently working on **App-Development**
-- 🎩 Mostly working on **My projects**
+- 👑 Currently working on **App-Development** </p>
+<p align = "center">
+- 🎩 Mostly working on **My projects** </p>
+<p align= "center">
 - 🖥️ A **student** working his way around things
 </p>
 <h2> / current skills / </h2>
