@@ -11,7 +11,7 @@
 - 🖥️ A <b>student</b> working his way around things
 </p>
 <h2 align = "center"> / current skills / </h2>
-<h4 align = "center> languages </h4>
+<h4 align = "center"> languages </h4>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust" />
