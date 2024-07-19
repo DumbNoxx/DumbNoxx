@@ -10,18 +10,14 @@
 <p align= "center">
 - 🖥️ A <b>student</b> working his way around things
 </p>
-<h2> / current skills / </h2>
- <p align="center">
-- <h4> languages </h4>
+<h2 align = "center"> / current skills / </h2>
+- <h4 align = "center> languages </h4>
 </p>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust" />
   </a>
-</p>
-<p align= "center" >
-  - <h5> currently learning </h5>
-</p>
+  - <h5 align = "center"> currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
