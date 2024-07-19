@@ -2,9 +2,8 @@
 
 <div>
 
-<p align = "center" >
-<h2> / about me /</h2>
-  
+<h2 align = "center"> / about me /</h2>
+ <p align = "center">
 - 👑 Currently working on **App-Development**
 - 🎩 Mostly working on **My projects**
 - 🖥️ A **student** working his way around things
