@@ -2,31 +2,33 @@
 
 <div>
 
-
+<p align = center >
 <h2> / about me /</h2>
   
 - 👑 Currently working on **App-Development**
 - 🎩 Mostly working on **My projects**
 - 🖥️ A **student** working his way around things
-  
+</p>
 <h2> / current skills / </h2>
-  
+ <p align = center >
 - <h4> languages </h4>
+</p>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust" />
   </a>
 </p>
-
+<p align= center >
   - <h5> currently learning </h5>
-
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
   </a>
 </p>
-  
+ <p align = center >
 - <h4> development tools </h4>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,pycharm,linux,vscode" />
