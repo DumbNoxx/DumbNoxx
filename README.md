@@ -16,15 +16,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust" />
   </a>
-  - <h5 align = "center"> currently learning </h5>
+  <h5 align = "center"> currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
   </a>
 </p>
- <p align = "center" >
-- <h4> development tools </h4>
-</p>
+<h4 align = "center"> development tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,pycharm,linux,vscode" />
