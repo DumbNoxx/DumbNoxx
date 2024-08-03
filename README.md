@@ -14,12 +14,12 @@
 <h4 align = "center"> Languages </h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust" />
+    <img src="https://skillicons.dev/icons?i=py,rust,html" />
   </a>
   <h5 align = "center"> Currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
+    <img src="https://skillicons.dev/icons?i=haskell,php,ruby,js,react" />
   </a>
 </p>
 <h4 align = "center"> Development tools </h4>
