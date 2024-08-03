@@ -19,7 +19,10 @@
   <h5 align = "center"> Currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,php,ruby,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
+  </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 <h4 align = "center"> Development tools </h4>
