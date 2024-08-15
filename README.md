@@ -1,4 +1,4 @@
-<p align = center ><a href="https://ibb.co/XWsStK9"><img src="https://i.ibb.co/XWsStK9/Picsart-24-07-19-13-45-53-276.png" alt="Picsart-24-07-19-13-45-53-276" border="0"></a> </p>
+<p align = center ><a href="https://ibb.co/XWsStK9"><img src="https://i.ibb.co/XWsStK9/Picsart-24-07-19-13-45-53-276.png" alt="Picsart-24-07-19-13-45-53-276" border="0" style="width:300 height:300"></a> </p>
 
 <div>
 
