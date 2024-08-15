@@ -28,7 +28,7 @@
 <h4 align = "center"> Development tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,pycharm,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,mint" />
   </a>
 </p>
 
