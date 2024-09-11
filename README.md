@@ -49,7 +49,9 @@
   <li><a href='https://github.com/DumbNoxx/InvenTech2'>InvenTech</a> - The InvenTech application created to help companies manage their inventory, created by me, helps you create a system so that you can have control of your inventory. This way it will be easier to control the products that leave and enter your business, and be able to have a small knowledge of the monthly sales that your company may have. It is not finished yet, but here we are giving everything, and giving news about the app, I hope you like it and give it a star to have confidence in myself. <3 
     <br>
     <br>
-   [![Miniatura del video](/resources/pantala.png)](https://www.youtube.com/watch?v=1AMPAmph0d4)
+    
+[![Miniatura del video](https://img.youtube.com/vi/1AMPAmph0d4/0.jpg)](https://www.youtube.com/watch?v=1AMPAmph0d4)
+
   </li>
 </div>
 
