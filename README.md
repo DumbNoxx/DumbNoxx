@@ -45,7 +45,11 @@
 </p>
 <ul align="center">
   <li><a href="https://github.com/DumbNoxx/Mini-calculator">Mini Calculator</a> - The Mini Calculator is a simple and interactive application built using Python and Tkinter. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, power, and root calculations. With a user-friendly interface featuring background wallpaper and icons, this app is perfect for quick and easy calculations.</li>
-
+<lu align="center">
+  <li><a href='https://github.com/DumbNoxx/InvenTech2'>InvenTech</a> - La aplicacion InvenTech creada para ayudar a las empresas a gestionar su inventario, creada por mi, te ayuda a crear un sistema para que puedas tener el control de tu inventario. Asi sera mas facil controlar los productos que salen y entran a tu negocio, y poder tener un pequeño conocimiento de las ventas mensuales que puede llegar a tener tu empresa. Todavia no esta terminada, pero ahi vamos dandole todo, y dando noticias sobre la app, espero les guste y denle star para tener confianza en mi mismo. <3 </li>
+    <video width="640" height="360" controls>
+  <source src="/resources/video_inventech_alpha.mp4" type="video/mp4">
+</video>
 </div>
 
 ------
