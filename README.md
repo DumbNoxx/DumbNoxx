@@ -57,7 +57,7 @@
 
   </li>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DumbNoxx)](https://github.com/anuraghazra/github-readme-stats)
+[![DumbNoxx GitHub stats](https://github-readme-stats.vercel.app/api?username=DumbNoxx)](https://github.com/DumbNoxx/github-readme-stats)
 
 ------
 
