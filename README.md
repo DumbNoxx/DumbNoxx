@@ -27,9 +27,6 @@
 <h5 align="center"> Currently learning </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haskell,php,ruby" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
