@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=bash,neovim,git," />
   </a>
 </p>
-<h4 align="center"> CURRENT FRAMEWORKS </h4>
+<h4 align="center"> Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask" />
