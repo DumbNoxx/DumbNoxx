@@ -21,7 +21,7 @@
 <h4 align="center"> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py"/>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp"/>
   </a>
 </p>
 <h4 align="center"> Currently learning </h4>
