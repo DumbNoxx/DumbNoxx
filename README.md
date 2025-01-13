@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=py"/>
   </a>
 </p>
-<h5 align="center"> Currently learning </h5>
+<h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
@@ -37,6 +37,13 @@
     <img src="https://skillicons.dev/icons?i=bash,neovim,git," />
   </a>
 </p>
+<h4 align="center"> CURRENT FRAMEWORKS </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+</p>
+
 
 <h2 align="center"> / Portfolio / </h2>
 <p align="center">
