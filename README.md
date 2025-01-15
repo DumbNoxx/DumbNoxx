@@ -76,8 +76,8 @@ I am currently working on making the images visible, it will soon be ready so th
 You are currently using the local database, a SQLite, which I will change to mongodb, so that when I deploy it, you will not have problems. :D 
 </p>
 
-<h3 aling='center'>Project</h3>
-<p aling='center'>
+<h3 align='center'>Project</h3>
+<p align='center'>
   <a href='https://webwhiz-api.vercel.app/'>Webwhiz comming me!!</a>
 </p>
 </div>
