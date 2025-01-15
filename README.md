@@ -49,7 +49,7 @@
 <p align="center">
   Here are some of the projects I've worked on:
 </p>
-# Webwhiz - API
+#Webwhiz - API
 <h3 align='center'>/ Description /</h3>
 <p align='center'>
 				WebWhiz is an api (not yet functional), where you can scrapping a web page of your choice, although it is currently available for MercadoLibre scrapping, I will soon add more functionality to pages like Amazon, LinkeIn, etc, but It is currently working only on MercadoLibre
