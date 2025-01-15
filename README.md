@@ -49,12 +49,12 @@
 <p align="center">
   Here are some of the projects I've worked on:
 </p>
-<h3 align='center'>Webwhiz - API</h3>
-<h3 align='center'>/ Description /</h3>
+<h3 align='center'>/\ Webwhiz - API /\</h3>
+<h3 align='center'>/\ Description /\</h3>
 <p align='center'>
 				WebWhiz is an api (not yet functional), where you can scrapping a web page of your choice, although it is currently available for MercadoLibre scrapping, I will soon add more functionality to pages like Amazon, LinkeIn, etc, but It is currently working only on MercadoLibre
 </p>
-<h3 align='center'>/ Technology /</h3>
+<h3 align='center'>/\ Technology \</h3>
 <h4 align="center">Frameworks<h4>
 <p align="center">
 				<a href="https://skillicons.dev">
@@ -67,7 +67,7 @@
 								<img src="https://skillicons.dev/icons?i=neovim,bash,git,"/>
 				</a>
 </p>
-<h3 align="center">/ Next developments /</h3>
+<h3 align="center">/\ Next developments /\</h3>
 <h4 align="center">API</h4>
 <p align="center">
 I am currently working on making the images visible, it will soon be ready so that it can be consumed, but I am developing it, it also needs a little stylization, I will give you the new ones soon, when I deploy the API
