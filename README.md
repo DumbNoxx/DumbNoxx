@@ -79,7 +79,7 @@ You are currently using the local database, a SQLite, which I will change to mon
 
 <h3 align='center'>Project</h3>
 <p align='center'>
-  <a href='https://webwhiz-api.vercel.app/ target='_blank'>Webwhiz comming me!!</a>
+  <a href='https://webwhiz-api.vercel.app/' target='_blank'>Webwhiz comming me!!</a>
 </p>
 </div>
 ------
