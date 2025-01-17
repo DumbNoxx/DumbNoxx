@@ -64,7 +64,7 @@
 <h4 align="center">Development Tools</h4>
 <p align="center">
 				<a href="https://skillicons.dev">
-								<img src="https://skillicons.dev/icons?i=neovim,bash,git,"/>
+								<img src="https://skillicons.dev/icons?i=neovim,bash,git,postgres"/>
 				</a>
 </p>
 <h3 align="center">/\ Next developments /\</h3>
@@ -74,7 +74,11 @@ I am currently working on making the images visible, it will soon be ready so th
 </p>
 <h4 align="center">Database</h4>
 <p align="center">
-You are currently using the local database, a SQLite, which I will change to mongodb, so that when I deploy it, you will not have problems. :D 
+The subbase database (postgreSQL) is already implemented, when you register your user is already registered in the database and you can log in whenever you want, plus your password is protected with encryption, so you can be sure that there will be no problems . 
+</p>
+<h4 align="center">Designer</h4>
+<p align="center">
+	Currently the design is being done with bootstrap, however it is not completely designed yet, since it lacks more UI and UIX, that will soon be fixed, and it will have a prettier UI.
 </p>
 
 <h3 align='center'>Project</h3>
