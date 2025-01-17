@@ -50,38 +50,38 @@
   Here are some of the projects I've worked on:
 </p>
 <h3 align='center'>/\ Webwhiz - API /\</h3>
-<h3 align='center'>/\ Description /\</h3>
+<h4 align='center'>/\ Description /\</h4>
 <p align='center'>
 				WebWhiz is an api (not yet functional), where you can scrapping a web page of your choice, although it is currently available for MercadoLibre scrapping, I will soon add more functionality to pages like Amazon, LinkeIn, etc, but It is currently working only on MercadoLibre
 </p>
-<h3 align='center'>/\ Technology /\</h3>
-<h4 align="center">Frameworks<h4>
+<h4 align='center'>/\ Technology /\</h4>
+<h5 align="center">Frameworks</h5>
 <p align="center">
 				<a href="https://skillicons.dev">
 								<img src="https://skillicons.dev/icons?i=flask,bootstrap,"/>
 				</a>
 </p>
-<h4 align="center">Development Tools</h4>
+<h5 align="center">Development Tools</h5>
 <p align="center">
 				<a href="https://skillicons.dev">
 								<img src="https://skillicons.dev/icons?i=neovim,bash,git,postgres"/>
 				</a>
 </p>
-<h3 align="center">/\ Next developments /\</h3>
-<h4 align="center">API</h4>
+<h4 align="center">/\ Next developments /\</h4>
+<h5 align="center">API</h5>
 <p align="center">
 I am currently working on making the images visible, it will soon be ready so that it can be consumed, but I am developing it, it also needs a little stylization, I will give you the new ones soon, when I deploy the API
 </p>
-<h4 align="center">Database</h4>
+<h5 align="center">Database</h5>
 <p align="center">
 The subbase database (postgreSQL) is already implemented, when you register your user is already registered in the database and you can log in whenever you want, plus your password is protected with encryption, so you can be sure that there will be no problems . 
 </p>
-<h4 align="center">Designer</h4>
+<h5 align="center">Designer</h5>
 <p align="center">
 	Currently the design is being done with bootstrap, however it is not completely designed yet, since it lacks more UI and UIX, that will soon be fixed, and it will have a prettier UI.
 </p>
 
-<h3 align='center'>Project</h3>
+<h4 align='center'>Project</h4>
 <p align='center'>
   <a href='https://webwhiz-api.vercel.app/' target='_blank'>Webwhiz comming me!!</a>
 </p>
