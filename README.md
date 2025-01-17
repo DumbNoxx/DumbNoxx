@@ -34,7 +34,7 @@
 <h4 align="center"> Development tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,neovim,git," />
+    <img src="https://skillicons.dev/icons?i=bash,neovim,git,postgres" />
   </a>
 </p>
 <h4 align="center"> Frameworks </h4>
