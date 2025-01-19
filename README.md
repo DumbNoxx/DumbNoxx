@@ -58,7 +58,7 @@
 <h5 align="center">Frameworks</h5>
 <p align="center">
 				<a href="https://skillicons.dev">
-								<img src="https://skillicons.dev/icons?i=flask,bootstrap,"/>
+								<img src="https://skillicons.dev/icons?i=flask"/>
 				</a>
 </p>
 <h5 align="center">Development Tools</h5>
