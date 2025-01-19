@@ -27,7 +27,7 @@
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js" />
   </a>
 </p>
 
