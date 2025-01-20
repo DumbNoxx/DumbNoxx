@@ -78,7 +78,7 @@ The subbase database (postgreSQL) is already implemented, when you register your
 </p>
 <h5 align="center">Designer</h5>
 <p align="center">
-	Currently the design is being done with bootstrap, however it is not completely designed yet, since it lacks more UI and UIX, that will soon be fixed, and it will have a prettier UI.
+	I have changed the design, I am no longer using Bootstrap, I am using vanilla css and js, without steroids, or anything, I am a little more backend, but if I learn front I am not complaining, we are going little by little, I already uploaded a preview of the website to your page, go see it.
 </p>
 
 <h4 align='center'>Project</h4>
