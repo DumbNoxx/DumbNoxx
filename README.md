@@ -74,7 +74,7 @@ I am currently working on making the images visible, it will soon be ready so th
 </p>
 <h5 align="center">Database</h5>
 <p align="center">
-The subbase database (postgreSQL) is already implemented, when you register your user is already registered in the database and you can log in whenever you want, plus your password is protected with encryption, so you can be sure that there will be no problems . 
+The supabase database (postgreSQL) is already implemented, when you register your user is already registered in the database and you can log in whenever you want, plus your password is protected with encryption, so you can be sure that there will be no problems . 
 </p>
 <h5 align="center">Designer</h5>
 <p align="center">
