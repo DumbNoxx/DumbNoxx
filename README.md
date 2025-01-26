@@ -89,7 +89,7 @@ The supabase database (postgreSQL) is already implemented, when you register you
 <h3 align="center">Meeter Api Key</h3>
 <p align="center">
   This is an api to generate keys for MeeterAi to further enhance your security and to get your Meeter AI key<br/><br/>
-  It is not working yet, but soon you can see it [here]('https://chat.lizardwine.com').
+  It is not working yet, but soon you can see it <a href="https://chat.lizardwine.com/" target='_blank'>Here</a>.
 </p>
 ------
 
