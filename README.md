@@ -8,7 +8,7 @@
 
 <h2 align="center"> / About me /</h2>
 <p align="center">
-  - <i>👑</i> Currently working on <b>App-Development</b>
+  - <i>👑</i> Currently working on <b>Backend Developer Jr</b>
 </p>
 <p align="center">
   - <i>🎩</i> Mostly working on <b>My projects</b>
