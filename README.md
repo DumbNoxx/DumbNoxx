@@ -16,7 +16,6 @@
 <p align="center">
   - <i>🖥️</i> A <b>student</b> working his way around things
 </p>
-
 <h2 align="center"> / Current skills / </h2>
 <h4 align="center"> Languages </h4>
 <p align="center">
@@ -43,6 +42,11 @@
     <img src="https://skillicons.dev/icons?i=flask" />
   </a>
 </p>
+<h4 align="center">Roadmaps</h4>
+  <p align="center">
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
+    </a>
+  </p>
 
 
 <h2 align="center"> / Portfolio / </h2>
