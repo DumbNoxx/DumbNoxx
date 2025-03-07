@@ -44,7 +44,9 @@
 </p>
 <h4 align="center"> Stats </h4>
 <p align="center">
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+	<a href="https://github-readme-stats.vercel.app/api?username=DumbNoxx">
+		<img src="https://github.com/anuraghazra/github-readme-stats"/>
+	</a>
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
