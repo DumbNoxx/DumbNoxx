@@ -20,26 +20,20 @@
 <h4 align="center"> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs"/>
   </a>
 </p>
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=react,vuejs,angular" />
   </a>
 </p>
 
 <h4 align="center"> Development tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,neovim,git,postgres" />
-  </a>
-</p>
-<h4 align="center"> Frameworks </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" />
+    <img src="https://skillicons.dev/icons?i=bash,vscode,git,postgres,npm" />
   </a>
 </p>
 <h4 align="center"> Stats </h4>
