@@ -17,12 +17,20 @@
   - <i>🖥️</i> A <b>student</b> working his way around things
 </p>
 <h2 align="center"> / Current skills / </h2>
-<h4 align="center"> Languages </h4>
+<h4 align="center"> Programming Languages </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript" />
+  </a>
+</p>
+
+<h4 align="center"> Backend & Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs"/>
   </a>
 </p>
+
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
