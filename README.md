@@ -43,11 +43,18 @@
   </a>
 </p>
 <h4 align="center"> Stats </h4>
-<p align="center">
-	<a href="https://github-readme-stats.vercel.app/api?username=DumbNoxx">
-		<img src="https://github.com/anuraghazra/github-readme-stats"/>
-	</a>
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true" />
+</picture>
+
 <h4 align="center">Roadmaps</h4>
   <p align="center">
     <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
