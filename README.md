@@ -8,7 +8,7 @@
 
 <h2 align="center"> / About me / </h2>
 <p align="center">
-  - <i>👑</i> Currently working as a <b>Backend Developer Jr</b> with a focus on becoming a <b>Future Fullstack Developer</b>.
+  - <i>👑</i> Currently working as a <b>Backend Developer Jr</b> with a focus on becoming a <b>Fullstack Developer</b>.
 </p>
 <p align="center">
   - <i>🎩</i> Passionately building and improving <b>My Projects</b> to sharpen my skills and creativity.
