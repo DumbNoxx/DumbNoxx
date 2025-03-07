@@ -6,16 +6,17 @@
 
 <div>
 
-<h2 align="center"> / About me /</h2>
+<h2 align="center"> / About me / </h2>
 <p align="center">
-  - <i>👑</i> Currently working on <b>Backend Developer Jr</b>
+  - <i>👑</i> Currently working as a <b>Backend Developer Jr</b> with a focus on becoming a <b>Future Fullstack Developer</b>.
 </p>
 <p align="center">
-  - <i>🎩</i> Mostly working on <b>My projects</b>
+  - <i>🎩</i> Passionately building and improving <b>My Projects</b> to sharpen my skills and creativity.
 </p>
 <p align="center">
-  - <i>🖥️</i> A <b>student</b> working his way around things
+  - <i>🖥️</i> A dedicated <b>Student</b> exploring the vast world of programming and technology.
 </p>
+
 <h2 align="center"> / Current skills / </h2>
 <h4 align="center"> Programming Languages </h4>
 <p align="center">
