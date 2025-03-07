@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/resources/Banneer.png">
+  <img src="/resources/banner.gif" alt="Banner" width="100%"/>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=89CFF0&width=435&lines=Hello,+I'm+Dylan+Marcano.">
