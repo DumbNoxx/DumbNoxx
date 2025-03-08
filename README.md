@@ -28,7 +28,7 @@
 <h4 align="center"> Backend & Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express"/>
   </a>
 </p>
 
