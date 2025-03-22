@@ -35,14 +35,14 @@
 <h4 align="center"> Frontend & Framework </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
   </a>
 </p>
 
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,angular,nextjs" />
+    <img src="https://skillicons.dev/icons?i=vuejs,angular,nextjs,nuxtjs" />
   </a>
 </p>
 
@@ -55,6 +55,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,npm,supabase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 <h4 align="center"> Stats </h4>
