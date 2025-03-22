@@ -50,8 +50,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,vscode,git,obsidian" />
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,npm,supabase" />
-
+  </a>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,npm,supabase" />
   </a>
 </p>
 <h4 align="center"> Stats </h4>
