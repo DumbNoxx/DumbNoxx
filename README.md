@@ -114,3 +114,4 @@
 
   </td>
   </p>
+<small>Infographics by <a href="https://github.com/lowlighter/metrics" target="_blank">Lowlighter</a></small>
