@@ -42,7 +42,7 @@
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,angular,nextjs,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=vuejs,nextjs,nuxtjs" />
   </a>
 </p>
 
