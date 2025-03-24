@@ -77,7 +77,7 @@
 </picture>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" />
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
