@@ -21,7 +21,7 @@
 <h4 align="center"> Programming Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript" />
   </a>
 </p>
 
