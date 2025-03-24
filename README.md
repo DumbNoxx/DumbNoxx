@@ -107,5 +107,5 @@
 <h2 align="center">:notes: Now Playing</h2>
 <br>
 <p align="center">
-<a href="https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra"><img src="https://spotify-now-playing-31iwfz64psq5cesoo6ip7yfezbra.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+<<a href="https://www.last.fm/user/DumbNoxx"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=DumbNoxx&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to">
 </p>
