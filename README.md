@@ -75,9 +75,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true" />
 </picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DumbNoxx&hide=prs)
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
     <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
     </a>
   </p>
+
+
