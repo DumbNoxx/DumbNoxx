@@ -108,7 +108,7 @@
 <br>
 <p align="center">
 <tr>
-  <td width="50%">
+  <td width="100%">
 
 &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
 
