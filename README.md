@@ -75,7 +75,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true" />
 </picture>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DumbNoxx&hide=prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
