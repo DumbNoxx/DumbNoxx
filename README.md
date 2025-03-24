@@ -90,7 +90,7 @@
 <br>
 <p align="center">MailVault</p>
 
-<div align='center'>
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <a href="https://github.com/DumbNoxx/MailVault" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault&theme=dark" />
 </a>
