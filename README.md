@@ -77,10 +77,17 @@
 </picture>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python" />
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
     <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
     </a>
   </p>
+
+
+<h3 align='center'>Projects</h3>
+<p align='center'>
+<a href="https://github.com/DumbNoxx/MailVault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault" />
+</a>
