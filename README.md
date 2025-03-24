@@ -79,6 +79,11 @@
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" />
 </p>
+<br
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumbNoxx&theme=dark" width=750  alt="stats graph"/>
+
+</div>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
     <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
