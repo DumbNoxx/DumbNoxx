@@ -102,3 +102,10 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=devsphere&theme=dark" />
 </a>
 </div>
+
+
+<h2 align="center">:notes: Now Playing</h2>
+<br>
+<p align="center">
+<a href="https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra"><img src="https://spotify-now-playing-Dylan-Marcano.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+</p>
