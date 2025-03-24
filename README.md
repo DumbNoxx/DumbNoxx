@@ -108,7 +108,6 @@
 <br>
 <tr>
   <td width="100%" align="center" style="vertical-align: middle;">
-    &nbsp; <br> 
-    [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
+     &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
   </td>
 </tr>
