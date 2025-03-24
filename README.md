@@ -90,15 +90,12 @@
 <br>
 <p align="center">MailVault</p>
 
-<p align='center'>
+<div align='center'>
 <a href="https://github.com/DumbNoxx/MailVault" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault&theme=dark" />
 </a>
-</p>
 <br>
-<p align="center">DevSphere</p>
-<p align='center'>
 <a href="https://github.com/DumbNoxx/DevSphere" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=devsphere&theme=dark" />
 </a>
-</p>
+</div>
