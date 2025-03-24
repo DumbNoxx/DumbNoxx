@@ -106,8 +106,13 @@
 
 <h2>:notes: Now Playing</h2>
 <br>
-<p>
-<a href="https://www.last.fm/user/DumbNoxx">
-  <img src="https://badges.lastfm.workers.dev/last-played?user=DumbNoxx&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to" alt="Last song I've listened to">
-</a>
-</p>
+ <table width="100%"> 
+  <tr>
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
+
+  </td>
+  <td width="50%">
+  </td>
+  </table>
