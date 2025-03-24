@@ -77,9 +77,9 @@
 </picture>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" width=400 />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" width=400 heigth="300"  />
 </p>
-<br
+<br>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumbNoxx&theme=dark" width=600  alt="stats graph"/>
 
