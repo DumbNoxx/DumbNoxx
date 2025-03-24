@@ -107,5 +107,7 @@
 <h2 align="center">:notes: Now Playing</h2>
 <br>
 <p align="center">
-<<a href="https://www.last.fm/user/DumbNoxx"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=DumbNoxx&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to">
+<a href="https://www.last.fm/user/DumbNoxx">
+  <img src="https://lastfm-image-generator.vercel.app/api?user=DumbNoxx" alt="Last song I've listened to">
+</a>
 </p>
