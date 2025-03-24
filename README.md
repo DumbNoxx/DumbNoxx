@@ -86,8 +86,17 @@
   </p>
 
 
-<h3 align='center'>Projects</h3>
+<h3 align='center'>Recent projects</h3>
 <p align='center'>
-<a href="https://github.com/DumbNoxx/MailVault">
+MailVault
+<a href="https://github.com/DumbNoxx/MailVault" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault" />
 </a>
+</p>
+<br>
+<p align='center'>
+DevSphere
+<a href="https://github.com/DumbNoxx/DevSphere" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=devsphere" />
+</a>
+</p>
