@@ -106,13 +106,5 @@
 
 <h2>:notes: Now Playing</h2>
 <br>
- <table width="100%"> 
-  <tr>
-  <td width="50%">
+[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
 
-&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
-
-  </td>
-  <td width="50%">
-  </td>
-  </table>
