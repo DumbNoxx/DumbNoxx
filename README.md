@@ -77,11 +77,11 @@
 </picture>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" width=400 />
 </p>
 <br
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumbNoxx&theme=dark" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumbNoxx&theme=dark" width=600  alt="stats graph"/>
 
 </div>
 <h4 align="center">Roadmaps</h4>
