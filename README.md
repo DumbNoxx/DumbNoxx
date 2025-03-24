@@ -106,11 +106,9 @@
 
 <h2 align='center'>:notes: Now Playing</h2>
 <br>
-<p >
-<tr >
-  <td width="100%" align="center">
-
-&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
-
+<tr>
+  <td width="100%" align="center" style="vertical-align: middle;">
+    &nbsp; <br> 
+    [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
   </td>
-  </p>
+</tr>
