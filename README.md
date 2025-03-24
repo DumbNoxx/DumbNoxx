@@ -75,7 +75,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DumbNoxx&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact" />
 </p>
 <h4 align="center">Roadmaps</h4>
   <p align="center">
