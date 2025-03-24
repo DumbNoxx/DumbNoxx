@@ -88,9 +88,8 @@
 
 <h3 align='center'>Recent projects</h3>
 <br>
-<p align="center">MailVault</p>
-
-<div align='center' style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+<br>
+<div align='center' style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 3rem;">
 <a href="https://github.com/DumbNoxx/MailVault" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault&theme=dark" />
 </a>
