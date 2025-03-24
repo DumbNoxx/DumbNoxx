@@ -94,7 +94,6 @@
 <a href="https://github.com/DumbNoxx/MailVault" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=MailVault&theme=dark" />
 </a>
-<br>
 <a href="https://github.com/DumbNoxx/DevSphere" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DumbNoxx&repo=devsphere&theme=dark" />
 </a>
