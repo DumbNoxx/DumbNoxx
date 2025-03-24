@@ -104,10 +104,13 @@
 </div>
 
 
-<h2 align='center'>:notes: Now Playing</h2>
+<h2>:notes: Now Playing</h2>
 <br>
-<tr>
-  <td width="100%" align="center" style="vertical-align: middle;">
-     &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
+<p >
+<tr >
+  <td width="100%">
+
+&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
+
   </td>
-</tr>
+  </p>
