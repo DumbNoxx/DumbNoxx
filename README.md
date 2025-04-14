@@ -35,7 +35,7 @@
 <h4 align="center"> Frontend & Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
   </a>
 </p>
 <p align="center">
