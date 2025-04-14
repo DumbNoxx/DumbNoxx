@@ -14,27 +14,19 @@
 
 ## / Current skills /
 
-### Programming Languages
+| **Programming Languages**                                                  | **Backend & Frameworks**                                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![Lang](https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript) | ![Backend](https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express) |
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript)](https://skillicons.dev)
+| **Frontend & Frameworks**                                       | **Currently Learning**                                          |
+| --------------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Frontend](https://skillicons.dev/icons?i=html,css,react,vite) | ![Learning](https://skillicons.dev/icons?i=vuejs,nextjs,nuxtjs) |
 
-### Backend & Frameworks
+### Development Tools
 
-[![SkillIcons](https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express)](https://skillicons.dev)
-
-### Frontend & Frameworks
-
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,react,vite)](https://skillicons.dev)
-
-### Currently learning
-
-[![SkillIcons](https://skillicons.dev/icons?i=vuejs,nextjs,nuxtjs)](https://skillicons.dev)
-
-### Development tools
-
-[![SkillIcons](https://skillicons.dev/icons?i=bash,vscode,git,obsidian)](https://skillicons.dev)
-[![SkillIcons](https://skillicons.dev/icons?i=postgres,mysql,npm,supabase)](https://skillicons.dev)
-[![SkillIcons](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+![Tools1](https://skillicons.dev/icons?i=bash,vscode,git,obsidian)  
+![Tools2](https://skillicons.dev/icons?i=postgres,mysql,npm,supabase)  
+![Tools3](https://skillicons.dev/icons?i=vercel)
 
 ---
 
