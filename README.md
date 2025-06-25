@@ -25,13 +25,6 @@
   </a>
 </p>
 
-<h4 align="center"> Backend & Frameworks </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express"/>
-  </a>
-</p>
-
 <h4 align="center"> Frontend & Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,14 +33,21 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=redux,astro" />
+  </a>
+</p>
+
+<h4 align="center"> Backend & Frameworks </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express"/>
   </a>
 </p>
 
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,nextjs,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=angular,rust,go" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=vercel,bun" />
   </a>
 </p>
 <h4 align="center"> Stats </h4>
@@ -89,11 +89,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumbNoxx&theme=dark" width=600  alt="stats graph"/>
 
 </div>
-<h4 align="center">Roadmaps</h4>
-  <p align="center">
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/>
-    </a>
-  </p>
+<!-- <h4 align="center">Roadmaps</h4> -->
+  <!-- <p align="center"> -->
+    <!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679407e032284498bcc3516e?variant=dark&roadmaps=backend%2Cpostgresql-dba%2Cpython%2Cjava" alt="roadmap.sh"/> -->
+    <!-- </a> -->
+  <!-- </p> -->
 
 <h3 align='center'>Recent projects</h3>
 <br>
@@ -107,13 +107,13 @@
 </a>
 </div>
 
-<h2>:notes: Now Playing</h2>
-<br>
-<p >
-<tr >
-  <td width="100%">
+<!-- <h2>:notes: Now Playing</h2> -->
+<!-- <br> -->
+<!-- <p > -->
+<!-- <tr > -->
+  <!-- <td width="100%"> -->
 
-&nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra)
+<!-- &nbsp; <br> [![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31iwfz64psq5cesoo6ip7yfezbra) -->
 
-  </td>
-  </p>
+  <!-- </td> -->
+  <!-- </p> -->
