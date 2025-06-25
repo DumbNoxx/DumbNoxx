@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,astro" />
+    <img src="https://skillicons.dev/icons?i=redux,astro,sass" />
   </a>
 </p>
 
