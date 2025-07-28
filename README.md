@@ -82,7 +82,7 @@
 </picture>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python&theme=dark" width=400 heigth="300"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumbNoxx&layout=compact&hide=python,html,css&theme=dark" width=400 heigth="300"  />
 </p>
 <br>
 <div align="center">
