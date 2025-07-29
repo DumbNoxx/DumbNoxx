@@ -21,7 +21,7 @@
 <h4 align="center"> Programming Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,go" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,rust,go" />
+    <img src="https://skillicons.dev/icons?i=angular,rust" />
   </a>
 </p>
 
