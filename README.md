@@ -8,7 +8,7 @@
 
 <h2 align="center"> / About me / </h2>
 <p align="center">
-  - <i>👑</i> Currently working as a <b>Frontend Developer Jr</b> with a focus on becoming a <b>Fullstack Developer</b>.
+  - <i>👑</i> Currently working as a <b>Full Stack Developer</b>.
 </p>
 <p align="center">
   - <i>🎩</i> Passionately building and improving <b>My Projects</b> to sharpen my skills and creativity.
@@ -33,21 +33,21 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,astro,sass" />
+    <img src="https://skillicons.dev/icons?i=redux,astro,sass,angular" />
   </a>
 </p>
 
 <h4 align="center"> Backend & Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express"/>
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,cmake,nodejs,express,nest"/>
   </a>
 </p>
 
 <h4 align="center"> Currently learning </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,rust" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
   </a>
 </p>
 
@@ -64,7 +64,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vercel,bun" />
+      <img src="https://skillicons.dev/icons?i=vercel,bun,docker,pnpm" />
   </a>
 </p>
 <h4 align="center"> Stats </h4>
