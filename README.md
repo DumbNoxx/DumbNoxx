@@ -24,7 +24,7 @@ I'm a Computer Science Student<br>I'm Software Developer<br>I'm Venezuelan.
 [![](https://visitcount.itsvg.in/api?id=DumbNoxx&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  (https://buymeacoffee.com/nxusdev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/NxusDev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dumbnoxx) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/NxusDev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dumbnoxx) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
