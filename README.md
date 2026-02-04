@@ -18,6 +18,8 @@ I'm a Computer Science Student<br>I'm Venezuelan.
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DumbNoxx&theme=calm_pink&hide_border=false)<br/>
 
+![](https://readme-stats-nu.vercel.app/api/top-langs/?username=DumbNoxx&hide=javascript,java,html,css&exclude_repo=pomohub-backend,fidelia,Dotfiles-For-Humans,FideliaFrontend&langs_count=3&theme=github_dark&hide_border=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
