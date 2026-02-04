@@ -16,9 +16,16 @@ I'm a Computer Science Student<br>I'm Venezuelan.
 # 📊 My Stats:
 ![](https://pixel-profile.vercel.app/api/github-stats?username=DumbNoxx&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF)
 
-![](https://nirzak-streak-stats.vercel.app/?user=DumbNoxx&theme=calm_pink&hide_border=false)<br/>
-
-![](https://readme-stats-nu.vercel.app/api/top-langs/?username=DumbNoxx&hide=javascript,java,html,css&exclude_repo=pomohub-backend,fidelia,Dotfiles-For-Humans,FideliaFrontend&langs_count=3&theme=github_dark&hide_border=true)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=DumbNoxx&theme=calm_pink&hide_border=false" alt="Streak Stats" />
+    </td>
+    <td>
+      <img src="https://readme-stats-nu.vercel.app/api/top-langs/?username=DumbNoxx&hide=javascript,java,html,css&exclude_repo=pomohub-backend,fidelia,Dotfiles-For-Humans,FideliaFrontend&langs_count=3&theme=github_dark&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
