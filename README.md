@@ -14,7 +14,7 @@ I'm a Computer Science Student<br>I'm Venezuelan.
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 # 📊 My Stats:
-![](https://pixel-profile.vercel.app/api/github-stats?username=DumbNoxx&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF&hide=commits)
+![](https://pixel-profile.vercel.app/api/github-stats?username=DumbNoxx&screen_effect=true&dithering=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23000000FF)
 
 <table border="0">
   <tr>
