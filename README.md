@@ -22,7 +22,7 @@ I'm a Computer Science Student<br>I'm Venezuelan.
       <img src="https://nirzak-streak-stats.vercel.app/?user=DumbNoxx&theme=calm_pink&hide_border=false" alt="Streak Stats" />
     </td>
     <td>
-      <img src="https://readme-stats-nu.vercel.app/api/top-langs/?username=DumbNoxx&hide=javascript,java,html,css&exclude_repo=DevSphere,MailVault&langs_count=3&theme=github_dark&hide_border=true" alt="Top Langs" />
+      <img src="https://readme-stats-nu.vercel.app/api/top-langs/?username=DumbNoxx&hide=mdx,javascript,java,html,css&exclude_repo=DevSphere,MailVault&langs_count=3&theme=github_dark&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
